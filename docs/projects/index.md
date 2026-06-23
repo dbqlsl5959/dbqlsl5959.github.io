@@ -3,7 +3,3 @@
 진행하거나 기여한 프로젝트입니다.
 
 ## 목록
-
-- [FunOMIC2 Nextflow Pipeline](FunOMIC2 Nextflow Pipeline)
-- [KLAS 서지정보 매크로](KLAS (bibliographic information) Macro)
-- [KT Aivle Big Project](KT Aivle Big Project)
